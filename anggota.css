@@ -1,0 +1,21 @@
+table {
+  width: 100%;
+  font-family: serif;
+  border-spacing: 10px;
+}
+table thead tr th {
+  border: 10px solid orange;
+  text-align: center;
+  padding: 10px;
+}
+table tbody tr th {
+  border: 10px solid orange;
+  text-align: center;
+  background-color: #ebffe9;
+}
+h1 {
+  color: coral;
+  font-family: serif;
+  font-size: 50px;
+  text-align: center;
+}

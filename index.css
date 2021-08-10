@@ -1,0 +1,33 @@
+/* css jumbotron */
+.jumbotron {
+  background-image: url(img/hagologo.jpg);
+  background-size: cover;
+  height: 650px;
+  text-align: center;
+}
+.jumbotron .display-4 {
+  color: orange;
+  font-size: 60px;
+  text-shadow: 4px 3px #000000;
+  font-family: algarian;
+}
+.jumbotron .lead {
+  color: white;
+  margin-top: 40px;
+  text-shadow: 4px 3px #000000;
+  font-family: algarian;
+  font-size: 50px;
+}
+.jumbotron hr {
+  border-color: #f05f40;
+  width: 60px;
+  border-width: 3px;
+}
+.jumbotron .btn {
+  background-color: #f05f40;
+  border: none;
+  border-radius: 30px;
+  padding-right: 35px;
+  padding-left: 35px;
+  margin-top: 55px;
+}
