@@ -1,8 +1,6 @@
 /* css jumbotron */
 .jumbotron {
-  background-color: lightblue;
-  background-image: url(img/hagologo.jpg);
-  background-repeat: no-repeat;
+  background: lightblue url(img/hagologo.jpg) no-repeat top center;
   text-align: center;
 }
 .jumbotron .display-4 {
