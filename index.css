@@ -2,7 +2,7 @@
 .jumbotron {
   background-color: lightblue;
   background-image: url(img/hagologo.jpg);
-  height: 650px;
+  background-repeat: no-repeat;
   text-align: center;
 }
 .jumbotron .display-4 {
@@ -16,9 +16,6 @@
   margin-top: 40px;
   text-shadow: 4px 3px #000000;
   font-family: algarian;
-  font-size: 50px;
-}
-.jumbotron hr {
   border-color: #f05f40;
   width: 60px;
   border-width: 3px;
